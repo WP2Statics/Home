@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: A sales-focused guide for 2025	</title>
+	<atom:link href="/a-sales-focused-guide-for-2025/feed/" rel="self" type="application/rss+xml" />
+	<link>/a-sales-focused-guide-for-2025/</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Nov 2024 15:33:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=356 metric#misses=28 metric#hit-ratio=92.7 metric#bytes=231221 metric#prefetches=0 metric#store-reads=51 metric#store-writes=3 metric#store-hits=26 metric#store-misses=25 metric#sql-queries=2 metric#ms-total=256.98 metric#ms-cache=17.66 metric#ms-cache-avg=0.3333 metric#ms-cache-ratio=6.9 -->

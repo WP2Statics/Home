@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Brand Buzz: October&#039;s social media highlights	</title>
+	<atom:link href="/brand-buzz-octobers-social-media-highlights/feed/" rel="self" type="application/rss+xml" />
+	<link>/brand-buzz-octobers-social-media-highlights/</link>
+	<description></description>
+	<lastBuildDate>Sun, 03 Nov 2024 15:35:43 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+</channel>
+</rss>
+
+<!-- plugin=object-cache-pro client=phpredis metric#hits=353 metric#misses=28 metric#hit-ratio=92.7 metric#bytes=178461 metric#prefetches=0 metric#store-reads=51 metric#store-writes=3 metric#store-hits=26 metric#store-misses=25 metric#sql-queries=2 metric#ms-total=95.77 metric#ms-cache=19.87 metric#ms-cache-avg=0.3748 metric#ms-cache-ratio=20.8 sample#redis-hits=8196 sample#redis-misses=9488 sample#redis-hit-ratio=46.4 sample#redis-ops-per-sec=134 sample#redis-evicted-keys=0 sample#redis-used-memory=11259792 sample#redis-used-memory-rss=19894272 sample#redis-memory-fragmentation-ratio=1.8 sample#redis-connected-clients=2 sample#redis-tracking-clients=0 sample#redis-rejected-connections=0 sample#redis-keys=1091 -->
